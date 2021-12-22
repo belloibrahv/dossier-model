@@ -1,0 +1,9 @@
+{
+  "name": "dossier-model",
+  "version": "1.0.0",
+  "description": "the product helps users to manage data of any structure",
+  "main": "index.js",
+  "repository": "https://github.com/belloibrahv/dossier-model.git",
+  "author": "developerbello <developerbello@gmail.com>",
+  "license": "MIT"
+}
